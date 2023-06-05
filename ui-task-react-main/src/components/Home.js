@@ -35,7 +35,11 @@ const Home = () => {
                 <h1 className="primary-heading">NORHOR SOFA</h1>
                 <p className="primary-text">The passage of time and its effect on the material, and the respect for the gloss produced by the natural years. British luxury furniture group's flagship design brand.
                 </p>
-         
+                  <div className='squares'>
+                    <div className='square1'></div>
+                    <div className='square2'></div>
+                    <div className='square3'></div>
+                  </div>
                 <h1 className="price-text">$1,468</h1>
                 <button className="buyBtn">
                      BUY 
